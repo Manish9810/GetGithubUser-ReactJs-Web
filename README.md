@@ -52,14 +52,7 @@ version used - "react-router-dom": "^5.2.0",
 - [Followers](https://api.github.com/users/john-smilga/followers)
 - [Rate Limit](https://api.github.com/rate_limit)
 
-  For unauthenticated requests, the rate limit allows for up to 60 requests per hour. Unauthenticated requests are associated with the originating IP address, and not the user making requests.
-
-## Fusion Charts
-
-- [Fusion Charts - Main Docs](https://www.fusioncharts.com/)
-- [First React Chart](https://www.fusioncharts.com/dev/getting-started/react/your-first-chart-using-react)
-- [List Of Charts](https://www.fusioncharts.com/dev/chart-guide/list-of-charts)
-- [Themes](https://www.fusioncharts.com/dev/themes/introduction-to-themes)
+  For unauthenticated requests, the rate limit allows for up to 60 requests per hour.
 
 ## Auth0
 
@@ -71,7 +64,7 @@ version used - "react-router-dom": "^5.2.0",
 - Go to Settings Tab
 - Copy/Paste Domain, ClientID - can be public (or use .env)
 - Add Domain -
-  for now http://localhost:3000 (DON'T COPY PASTE FROM URL BAR)
+  for now http://localhost:3000
 
   - Allowed Callback URLs
   - Allowed Logout URLs
